@@ -25,5 +25,16 @@ Use uma das figuras que estão no diretório data ou baixe alguma da internet pa
 Usei esta figura do cacchoro que já estava disponível no diretório data e baixei mais duas figuras da internet. Uma da av paulista com carros e ônibus e outra de carros e pesssoas e uma maca com uma pessoa provalvelmente morta.
 
 # Resultados
+## Fotos de entrada:
+1. Fotos da Av Paulista ![Av Paulista](av_paulista.jpg)
+2. Foto com Cacchoro e Bicicleta ![Chacacho e Bicicleta ](dog.jpg)
+3. Foto de uma morte num Motel ![Morrte no Motel](morte_motel.jpg)
+
+
+## Fotos processadas pelo yolo v3
+1. Fotos da Av Paulista processada ![Av Paulista](av_paulista_predição.jpg)
+2. Foto com Cacchoro e Bicicleta processada ![Chacacho e Bicicleta ](dog_predição.jpg)
+3. Foto de uma morte num Motel procesada ![Morrte no Motel](motel_predição.jpg)
+
 
 
